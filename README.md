@@ -54,7 +54,7 @@
 
 ## 👥 Author <a name="authors">ragan hailu</a>
 
-- GitHub: [@BlesslinJerishR](https://github.com/ragangithub)
+- GitHub: [@ragangithub](https://github.com/ragangithub)
 
 <!-- SUPPORT -->
 
